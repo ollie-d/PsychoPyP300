@@ -11,3 +11,5 @@ There's a 5 second delay at the start to ensure the LSL stream is started before
 <br><br>
 Paradigm based off Li et al., 2019: <br>
 https://www.frontiersin.org/articles/10.3389/fnhum.2018.00520/full
+<br><br>
+![Example of paradigm](P300_readme.png)
